@@ -1,0 +1,18 @@
+{
+  "name": "test_with_sinon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0",
+    "node-uuid": "^1.4.8",
+    "sinon": "^8.0.4"
+  }
+}
